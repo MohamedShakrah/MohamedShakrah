@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MohamedShakrah
-- 👀 I’m interested in programming , Networks , AI , Cyber security
+- 👀 I have a wide knowledge of programming, Networks, AI, Cyber security
 - 🌱 I’m currently learning Advanced AI and Cyber security
-- 💞️ I’m looking to collaborate on AI Projects
-- 📫 How to reach me : Whatsapp: +971564638821
+- 📫 How to reach me : Whatsapp: +971 5 637 637 55
 
 <!---
 MohamedShakrah/MohamedShakrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
